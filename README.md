@@ -1,3 +1,3 @@
 # expense_tracker
 
-A new Flutter project.
+Experimental project to practice some ideas and also study.
